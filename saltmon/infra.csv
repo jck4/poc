@@ -1,0 +1,3 @@
+name,network,subnet,ip,cpus,ram,storage,type,public
+deploy,testvpc,10.0.0.0/32,10.0.0.10,1,1,10,ubuntu :),yes
+grafana,testvpc,10.0.1.0/32,10.0.1.101,1,1,10,yeet,no

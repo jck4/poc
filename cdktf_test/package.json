@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "@cdktf/provider-docker": "^0.2.31"
-  }
-}
